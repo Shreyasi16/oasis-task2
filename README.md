@@ -7,7 +7,7 @@ Languages-HTML, CSS and JavaScript.
 IDE- Visual Studio Code.
 
 You can also checkout code from my GitHub Account
-GitHub link: - 
+GitHub link: - https://github.com/Shreyasi16/oasis-task2.git
 
 
 
